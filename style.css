@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1:hover{
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
